@@ -14,10 +14,9 @@
   - The images.json should be an array of objects, each representing an image. Create an empty array if this file is not present.
 
 - Create a metadata object describing the image.
-  - Name, Size, Type, etc.
+  - Name, URL, Size, Type, etc.
   - Append the data for this image to the array.
 
 ### Links and Resources
-
 
 - [GUI DEPLOYMENT](http://cloudserver-env.eba-p9epswmi.us-east-1.elasticbeanstalk.com/)
